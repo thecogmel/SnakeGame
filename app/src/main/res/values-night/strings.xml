@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="newGame">Novo Jogo</string>
+    <string name="record">Recorde</string>
+    <string name="config">Configurações</string>
+    <string name="configTitle">Configurações</string>
+    <string name="recordTitle">Recorde</string>
+    <string name="snakelogo_image">SnakeLogo Image</string>
+    <string name="imagem">Imagem</string>
+    <string name="upButton">^</string>
+    <string name="leftButton"><![CDATA[<]]></string>
+    <string name="rightButton"><![CDATA[>]]></string>
+    <string name="downButton">v</string>
+</resources>
